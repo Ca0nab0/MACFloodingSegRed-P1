@@ -55,25 +55,27 @@ Imágenes usadas:
 # Capturas de pantalla.
 - Topología (nombre y matrícula)
 
-![Topologia](capturas/mac_topologia.png)
+
+
+<img width="426" height="278" alt="mac_topologia" src="https://github.com/user-attachments/assets/d84ed783-89a2-44c8-9eb8-943531bd2c44" />
 
 - Ejecución del script en Kali
 
-![Ejecucion](capturas/mac_ejecucion.png)
+<img width="388" height="157" alt="mac_ejecucion" src="https://github.com/user-attachments/assets/6495294b-2322-479a-80cb-532076ef78b6" />
 
 - Tabla MAC del switch antes del ataque (pocas entradas)
 
-![Tabla MAC inicial](capturas/mac_tabla_977.png)
+<img width="396" height="228" alt="mac_tabla_977" src="https://github.com/user-attachments/assets/481875ec-7ff8-40e4-8963-e6e82c08e94a" />
 
 - Tabla MAC saturándose durante el ataque (progresión 977 -> 2445 -> 2943 entradas)
 
-![Tabla 2445](capturas/mac_tabla_2445.png)
+<img width="395" height="192" alt="mac_tabla_2445" src="https://github.com/user-attachments/assets/40578c4c-8b7c-43e1-9586-e985cea53be5" />
 
-![Tabla 2943](capturas/mac_tabla_2943.png)
+<img width="282" height="190" alt="mac_tabla_2943" src="https://github.com/user-attachments/assets/6c7d40f3-f5b9-4a7b-a131-0078d443b181" />
 
 - Avalancha de tramas con MACs aleatorias capturada en Wireshark
 
-![Avalancha de tramas](capturas/mac_wireshark.png)
+<img width="633" height="481" alt="mac_wireshark" src="https://github.com/user-attachments/assets/77107f27-a402-4a35-8e9b-4ff497c0c760" />
 
 # Documentación de contra-medidas.
 La mitigación es Port Security, que limita cuántas direcciones MAC puede aprender el puerto del atacante. Al superar el límite, el switch detecta la violación y bloquea el puerto.
