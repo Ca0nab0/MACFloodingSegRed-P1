@@ -1,6 +1,6 @@
 # Ataque MAC Flooding
 
-> **Estudiante:** Emmanuel Báez Ramírez
+> **Nombre:** Emmanuel Báez Ramírez
 > **Matrícula:** 2022-0375
 > **Video ilustrativo:** https://youtu.be/_l7GSrS0wds
 > **Playlist (Práctica 1):** https://www.youtube.com/playlist?list=PLp7pfUFf22-zekAmQ7hncCvmJHZe7lLHk
