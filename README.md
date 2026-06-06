@@ -53,7 +53,7 @@ Imágenes usadas:
 - `c3725-adventerprisek9-mz.124-15.T14` (router R1)
 
 # Capturas de pantalla.
-- Topología (nombre y matrícula)
+- Topología (Emmanuel Baez 20220375)
 
 
 
